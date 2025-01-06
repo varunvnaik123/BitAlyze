@@ -5,6 +5,25 @@ This project analyzes the relationship between Bitcoin's historical price trends
 
 Through data collection, preprocessing, and statistical analysis, the project ultimately finds that there is **no significant relationship** between Bitcoin price movements and social media sentiment.
 
+
+## 📈 Features
+- **Bitcoin Sentiment Analysis**: Investigates the correlation between social media sentiment and Bitcoin price fluctuations using Twitter data.
+- **Historical Price Trends**: Analyzes Bitcoin’s price movements over time to identify patterns related to trading volume and volatility.
+- **Sentiment Classification**: Implements sentiment analysis to classify tweets as **positive, neutral, or negative** using lexicon-based techniques.
+- **Correlation Analysis**: Computes statistical correlations between sentiment trends and Bitcoin price metrics.
+- **Machine Learning Regression**: Develops predictive models to test the influence of social media sentiment on Bitcoin price behavior.
+- **Data Visualization**: Utilizes interactive plots and visual analytics to illustrate trends and relationships in the dataset.
+
+
+## 🛠 Technologies Used
+- **Python**: Primary programming language for data analysis and modeling.
+- **Pandas & NumPy**: Used for data manipulation and numerical computations.
+- **Matplotlib & Seaborn**: Enables visualization of sentiment trends and price fluctuations.
+- **Scikit-learn**: Used for machine learning models, including regression and feature scaling.
+- **NLTK**: Natural Language Processing toolkit for sentiment analysis.
+- **Jupyter Notebook**: Development environment for exploratory data analysis and modeling.
+
+
 ## ❓ Research Question
 **Can I identify a measurable correlation between specific social media sentiment indicators (such as counts of positive, neutral, and negative posts) on platforms like X (formerly Twitter), and key Bitcoin price metrics?**  
 
@@ -103,5 +122,3 @@ While some studies suggest social media sentiment can drive asset prices, this p
 
 🛠 Maintained by **Varun Naik**  
 📌 *This project was made for the UC San Diego course COGS 108 (Data Science in Practice)*
-
-
