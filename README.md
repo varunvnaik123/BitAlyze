@@ -102,6 +102,6 @@ While some studies suggest social media sentiment can drive asset prices, this p
 ---
 
 🛠 Maintained by **Varun Naik**  
-📌 *COGS 108 - Data Science Final Project*
+📌 *This project was made for the UC San Diego course COGS 108 (Data Science in Practice)*
 
 
